@@ -6,11 +6,6 @@ all that information for you.
 
 ![https://p-vvf5mjm.t4.n0.cdn.getcloudapp.com/items/4gulpyNv/e7081837-0ef5-4008-aa7e-dd461b3b99b1.jpg?source=viewer&v=2cede67098f688aed48ba60fda60c02b](https://p-vvf5mjm.t4.n0.cdn.getcloudapp.com/items/4gulpyNv/e7081837-0ef5-4008-aa7e-dd461b3b99b1.jpg?source=viewer&v=2cede67098f688aed48ba60fda60c02b)
 
-## Resources
-
-- Design: [**here**](https://www.figma.com/file/gAfbtV6U3DW5m1zNDrPSQT/Contactable?node-id=0%3A1)
-- API repo: [**here](https://github.com/codeableorg/contactable-js-api)** (contains a insomnia json file)
-
 ## **User personas**
 
 There's only one type of user for Contactable application, this will be referred
@@ -144,4 +139,3 @@ favorite
 - Then the favorite mark is removed from the contact
 - And it is removed from the Favorites list
 
-HAPPY CODING! 👨‍💻 👨‍💻
